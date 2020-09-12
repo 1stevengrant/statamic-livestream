@@ -1,0 +1,13 @@
+title: 'Menu Items'
+template: default
+layout: layout
+mount: 029bd409-2ae6-4fe3-ad41-79deefe28662
+revisions: false
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private
+structure:
+  root: false
+  max_depth: 1
+  tree: {  }

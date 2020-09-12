@@ -1,0 +1,16 @@
+title: 'Main Nav'
+collections:
+  - pages
+max_depth: 1
+root: true
+tree:
+  -
+    entry: home
+  -
+    entry: 029bd409-2ae6-4fe3-ad41-79deefe28662
+  -
+    entry: 2d4371a1-99e8-4d40-b859-1b1b08a4814e
+  -
+    entry: 2fb994df-01bc-43ef-b87f-dad94df3a8dc
+  -
+    entry: 4268e0ba-5674-4c0a-b1ad-aa2c533550c7
